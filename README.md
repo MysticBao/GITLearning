@@ -7,9 +7,9 @@ Update
 Conflict test.
 Add Content
 
-<<<<<<< Updated upstream
 Test Test 
-=======
+
 sadsafsaf
 sfsafasfasf
->>>>>>> Stashed changes
+
+testesttest
